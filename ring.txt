@@ -1,0 +1,6 @@
+See "Hello, World!"
+ 
+Put "Hello, World!"
+ 
+Load "stdlib.ring"
+Print("Hello, World!")
